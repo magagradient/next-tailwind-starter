@@ -78,7 +78,7 @@ Abrí http://localhost:3000 en el navegador.
 1. Cloná el repo
 2. Eliminá el historial de git:
    ```bash
-   rm -rf .git
+    Remove-Item -Recurse -Force .git
    ```
 3. Inicializá un repo nuevo:
    ```bash
