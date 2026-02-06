@@ -26,6 +26,18 @@ Pensado como base limpia y reutilizable para comenzar nuevos proyectos frontend 
 
 ---
 
+## 🚀 Demo
+
+- [Ver en vivo (Vercel)](https://next-tailwind-starter-kappa.vercel.app/)
+
+
+
+![Captura de pantalla del starter](./public/captura-starter.png)
+
+
+
+---
+
 ## 🚀 Uso
 
 Cloná el repositorio:
