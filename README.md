@@ -1,7 +1,5 @@
 # Next.js + Tailwind Starter
 
-Starter minimal para crear proyectos web con **Next.js**, **React** y **Tailwind CSS**.
-
 Starter minimal para crear proyectos web con Next.js, React y Tailwind CSS, pensado como base personal para iniciar proyectos frontend de forma rápida y ordenada.
 
 ---
@@ -29,7 +27,6 @@ Starter minimal para crear proyectos web con Next.js, React y Tailwind CSS, pens
 ## 🚀 Demo
 
 - [Ver en vivo (Vercel)](https://next-tailwind-starter-kappa.vercel.app/)
-
 
 
 ![Captura de pantalla del starter](./public/captura-starter.png)
