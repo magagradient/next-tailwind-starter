@@ -26,6 +26,10 @@ Starter minimal para crear proyectos web con Next.js, React y Tailwind CSS, pens
 
 ## 🚀 Demo
 
+## 🚀 Deployment
+
+Este starter está listo para desplegarse en **Vercel** sin configuración extra.
+
 - [Ver en vivo (Vercel)](https://next-tailwind-starter-kappa.vercel.app/)
 
 
