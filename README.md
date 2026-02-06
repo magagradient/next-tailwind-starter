@@ -2,7 +2,7 @@
 
 Starter minimal para crear proyectos web con **Next.js**, **React** y **Tailwind CSS**.
 
-Pensado como base limpia y reutilizable para comenzar nuevos proyectos frontend sin configuración extra.
+Starter minimal para crear proyectos web con Next.js, React y Tailwind CSS, pensado como base personal para iniciar proyectos frontend de forma rápida y ordenada.
 
 ---
 
